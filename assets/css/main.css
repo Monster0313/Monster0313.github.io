@@ -50,7 +50,7 @@ table {
 body {
   display: flex;
   justify-content: center;
-  background-image: url("https://www.kmtinternational.com/uploads/frontpage/kmt-international-worldwide-solutions.jpg");
+  background-image: url("images/bg.jpg");
   background-position: center;
   background-size: cover; }
 
