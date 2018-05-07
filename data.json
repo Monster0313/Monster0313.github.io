@@ -1,0 +1,69 @@
+[
+    {
+        "name" : "林函豫" ,
+        "birthday": {
+            "month" : "12",
+            "day": "11",
+            "year": "1997"
+        } ,
+        "hobby": "聽歌" ,
+        "location": "新北市土城區",
+        "photo": "https://imgur.dcard.tw/rNhRYes.jpg"
+    },
+    
+    {
+        "name" : "張曉瑜" ,
+        "birthday": {
+            "month" : "9",
+            "day": "8",
+            "year": "1997"
+        } ,
+        "hobby": "看電影 聽音樂" ,
+        "location": "新北市新店區",
+        "photo": "https://imgur.dcard.tw/rNhRYes.jpg"
+    },
+    {
+        "name" : "劉晏妏" ,
+        "birthday": {
+            "month" : "11",
+            "day": "20",
+            "year": "1997"
+        } ,
+        "hobby": "看動漫 做手作" ,
+        "location": "桃園市平鎮區",
+        "photo": "https://imgur.dcard.tw/rNhRYes.jpg"
+    },
+    {
+        "name" : "黃凱琳" ,
+        "birthday": {
+            "month" : "2",
+            "day": "23",
+            "year": "1998"
+        } ,
+        "hobby": "彈吉他" ,
+        "location": "新北市中和區",
+        "photo": "https://imgur.dcard.tw/rNhRYes.jpg"
+    },
+    {
+        "name" : "莊桓郡" ,
+        "birthday": {
+            "month" : "2",
+            "day": "28",
+            "year": "1998"
+        } ,
+        "hobby": "運動" ,
+        "location": "台北市文山區",
+        "photo": "https://imgur.dcard.tw/rNhRYes.jpg"
+    },
+    {
+        "name" : "邱旻鋒" ,
+        "birthday": {
+            "month" : "3",
+            "day": "13",
+            "year": "1997"
+        } ,
+        "hobby": "旅行 看海" ,
+        "location": "台北市大安區",
+        "photo": "https://imgur.dcard.tw/rNhRYes.jpg"
+    }
+]

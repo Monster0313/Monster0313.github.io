@@ -1,0 +1,13 @@
+{
+  "name": "XML_homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "node-sass ./assets/scss/main.scss ./assets/css/main.css --watch"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1"
+  }
+}
