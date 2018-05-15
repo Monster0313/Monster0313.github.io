@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<intro>
+    <student>
+        <name>路人甲</name>
+        <birthday>
+            <month>01</month>
+            <day>01</day>
+            <year>2000</year>
+        </birthday>
+        <hobby>逆向工程</hobby>
+        <location>天龍國</location>
+        <photo>https://sites.google.com/site/informationtotechnology/_/rsrc/1472869808337/config/customLogo.gif?revision=7</photo>
+    </student>
+    <student>
+        <name>路人乙</name>
+        <birthday>
+            <month>02</month>
+            <day>02</day>
+            <year>2000</year>
+        </birthday>
+        <hobby>開放資料</hobby>
+        <location>天龍國</location>
+        <photo>https://pbs.twimg.com/profile_images/378800000836587630/0829b1c8c6b7fabe04b6edd838cfc895_400x400.png</photo>
+    </student>
+    <student>
+        <name>路人丙</name>
+        <birthday>
+            <month>03</month>
+            <day>13</day>
+            <year>1997</year>
+        </birthday>
+        <hobby>睡覺</hobby>
+        <location>天龍國</location>
+        <photo>http://a.rimg.com.tw/s1/3/34/1d/21726578975773_575_m.jpg</photo>
+    </student>        
+</intro>
